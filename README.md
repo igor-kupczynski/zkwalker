@@ -1,5 +1,7 @@
 # zkwalker
 
+![Build status badge](https://github.com/igor-kupczynski/zkwalker/workflows/Go/badge.svg)
+
 ZkWalker is a recursive zookeeper znode tree walker.
 
 It can be used as a command, or as a library from a go project.
